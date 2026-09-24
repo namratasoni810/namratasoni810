@@ -19,7 +19,7 @@
  8.  (Optional) If your GitHub handle is not "namrata-soni", update
      username=namrata-soni in the three stats cards in the "GitHub Stats" section.
  9.  Commit the change with any message, e.g. "Add profile README".
- 10. Visit https://github.com/<your-username> — your README now renders at the top.
+ 10. Visit https://github.com/namratasoni810 — your README now renders at the top.
 
  NOTE: This file is named profile-README.md on purpose so it does NOT clash with
        any existing README.md in this workspace. On GitHub the file MUST be named
@@ -38,8 +38,8 @@
 </p>
 
 <p align="center">
-  <a href="LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="GITHUB_URL"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/namrata-soni94141"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/namratasoni810"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://namrata-soni.github.io/namrata-soni-portfolio/"><img src="https://img.shields.io/badge/Portfolio-6D8CFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 </p>
 
@@ -82,7 +82,11 @@ currently_exploring:
 mindset: "Understand the concept first. Then automate it. Then secure it."
 ```
 
-I'm a Cloud Infrastructure & Security Engineer who enjoys turning complex cloud concepts into **secure, practical, and scalable** solutions. My work sits at the intersection of infrastructure, identity, and automation — designing Azure landing zones, wiring up private connectivity, shipping Terraform modules, and hardening everything with least-privilege identity. I care about infrastructure that is reproducible, secure by default, and boring in the best possible way.
+I'm a Cloud Infrastructure & Security Engineer. I design Azure **platforms**, not just resources — landing zones where the management-group hierarchy, naming, tagging, and Azure Policy guardrails are decided once and then inherited by every subscription that comes after. Workloads land on private connectivity by default: Private Endpoints, Private DNS zones, and VNet integration keep traffic off the public internet, and the DNS resolution path gets designed rather than left to chance.
+
+Most of what I ship is Terraform — modules that encode secure defaults so the easy path is also the safe path, state isolated per environment, and changes applied only after a reviewed plan. Identity is the real perimeter in everything I build, so Managed Identities replace long-lived secrets and RBAC is scoped to the least role that still works.
+
+**My operating principle:** if a workload can't be destroyed and rebuilt identical, it isn't secure — it's a snowflake held together by tribal knowledge. I aim for infrastructure that is reproducible, least-privilege by default, and boring in the best possible way.
 
 ---
 
@@ -212,15 +216,15 @@ Cloud Engineering
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=namrata-soni&theme=tokyonight&hide_border=true&show_icons=true" alt="Namrata's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=namratasoni810&theme=tokyonight&hide_border=true&show_icons=true" alt="Namrata's GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=namrata-soni&theme=tokyonight&hide_border=true" alt="Namrata's GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=namratasoni810&theme=tokyonight&hide_border=true" alt="Namrata's GitHub Streak">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namrata-soni&theme=tokyonight&hide_border=true&layout=compact" alt="Namrata's Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namratasoni810&theme=tokyonight&hide_border=true&layout=compact" alt="Namrata's Top Languages">
 </p>
 
 ---
@@ -244,8 +248,8 @@ Every tool I pick up follows that loop. Breaking things in a lab is where the re
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="GITHUB_URL"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/namrata-soni94141"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/namratasoni810"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://namrata-soni.github.io/namrata-soni-portfolio/"><img src="https://img.shields.io/badge/Portfolio-6D8CFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 </p>
 
